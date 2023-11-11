@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cscpvm2/static/css/main.ae42ac5f.css",
+    "main.js": "/cscpvm2/static/js/main.0cf08315.js",
+    "index.html": "/cscpvm2/index.html",
+    "main.ae42ac5f.css.map": "/cscpvm2/static/css/main.ae42ac5f.css.map",
+    "main.0cf08315.js.map": "/cscpvm2/static/js/main.0cf08315.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.0cf08315.js"
+  ]
+}
