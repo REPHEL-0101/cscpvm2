@@ -91,6 +91,7 @@ hr {
   width: 80px;
   height: 50px;
   padding-bottom: 10pxw;
+  margin-left: 0px;
 }
 
 #menu.navbar-default .navbar-nav > li > a {
