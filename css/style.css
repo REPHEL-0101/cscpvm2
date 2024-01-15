@@ -215,7 +215,7 @@ a:focus,
   display: table;
   width: 100%;
   padding: 0;
-  background: url(../img/csc/CSC\ BG\ 7.png) center center no-repeat;
+  background: url(../img/csc/CSC\ BG\ 8.png) center center no-repeat;
   background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -242,7 +242,7 @@ a:focus,
 .intro p {
   color: #fff;
   font-size: 22px;
-  font-weight: 300;
+  font-weight: 500;
   line-height: 30px;
   margin: 0 auto;
   margin-bottom: 60px;
