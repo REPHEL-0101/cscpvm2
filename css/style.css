@@ -215,7 +215,7 @@ a:focus,
   display: table;
   width: 100%;
   padding: 0;
-  background: url(../img/csc/14.png) center center no-repeat;
+  background: url(../img/csc/CSC\ BG\ 5.png) center center no-repeat;
   background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -228,7 +228,7 @@ a:focus,
 }
 .intro h1 {
   font-family: "Raleway", sans-serif;
-  color: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  color: #fff;
   font-size: 50px;
   font-weight: 700;
   text-transform: uppercase;
