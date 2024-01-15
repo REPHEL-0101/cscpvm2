@@ -228,7 +228,7 @@ a:focus,
 }
 .intro h1 {
   font-family: "Raleway", sans-serif;
-  color: #fff;
+  color: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
   font-size: 50px;
   font-weight: 700;
   text-transform: uppercase;
